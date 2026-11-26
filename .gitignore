@@ -3,3 +3,8 @@ __pycache__/
 .venv/
 .pytest_cache/
 .ruff_cache/
+<<<<<<< HEAD
+=======
+#Dockerfile
+#Jenkinsfile
+>>>>>>> 3b352c0 (Add Jekinsfile and modify gitignore)
